@@ -4,7 +4,9 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            Console.WriteLine("Witaj w aplikacji TODO List\n");
+            Console.WriteLine("Oto lista twoich obecnych zadań:");
+
         }
     }
 }
